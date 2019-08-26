@@ -1,10 +1,8 @@
 ---
 title: Team
-intro_image: images/undraw_modern_professional_yt9h.svg
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
+date: 2019-08-26T08:01:27.873Z
 ---
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of qualified freelancers can help your infrastructure at any stage of its growth.
